@@ -55,10 +55,10 @@
                         <div id="collapse4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading4">
                             <div class="list-group">
 
-                                <a href="/japan/9" class="list-group-item"><span class="fa fa-chevron-right"></span>
+                                <a href="?page=japan2" class="list-group-item"><span class="fa fa-chevron-right"></span>
                                     Universitet</a>
 
-                                <a href="/japan/11" class="list-group-item"><span class="fa fa-chevron-right"></span>
+                                <a href="?page=japan3" class="list-group-item"><span class="fa fa-chevron-right"></span>
                                     Kİtabxana</a>
                             </div>
                         </div>
@@ -108,22 +108,22 @@
                     <div class="panel-heading">Resurslar</div>
                     <div class="list-group">
 
-                        <a href="/resources/10" class="list-group-item"><span class="fa fa-chevron-right"></span>
+                        <a href="?page=resources" class="list-group-item"><span class="fa fa-chevron-right"></span>
                             Yaponiya</a>
 
-                        <a href="/resources/9" class="list-group-item"><span class="fa fa-chevron-right"></span>
+                        <a href="?page=resources2" class="list-group-item"><span class="fa fa-chevron-right"></span>
                             Musiqi</a>
 
-                        <a href="/resources/8" class="list-group-item"><span class="fa fa-chevron-right"></span>
+                        <a href="?page=resources3" class="list-group-item"><span class="fa fa-chevron-right"></span>
                             Dialoqlar</a>
 
-                        <a href="/resources/7" class="list-group-item"><span class="fa fa-chevron-right"></span>
+                        <a href="?page=resources4" class="list-group-item"><span class="fa fa-chevron-right"></span>
                             Manqa</a>
 
-                        <a href="/resources/6" class="list-group-item"><span class="fa fa-chevron-right"></span> Cizgi
+                        <a href="?page=resources5" class="list-group-item"><span class="fa fa-chevron-right"></span> Cizgi
                             Filmləri</a>
 
-                        <a href="/resources/5" class="list-group-item"><span class="fa fa-chevron-right"></span>
+                        <a href="?page=resources6" class="list-group-item"><span class="fa fa-chevron-right"></span>
                             Filmlər</a>
                     </div>
                 </div>

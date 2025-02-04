@@ -53,10 +53,10 @@
                         <div class="recent-content">
 
                             <div class="recent-content-item">
-                                <a href="/store/store/3"><img src="/images/store/yapondili_az_store_list_1486474342.jpg"
+                                <a href="?page=store2"><img src="/images/store/yapondili_az_store_list_1486474342.jpg"
                                         alt="Mənbə Kitab Evi" style="width:70px;"></a>
                                 <div class="recent-text">
-                                    <h4><a href="/store/store/3">Mənbə Kitab Evi</a></h4>
+                                    <h4><a href="?page=store2">Mənbə Kitab Evi</a></h4>
                                     <div class="single-item-comment-view">
                                         <span><i class="zmdi zmdi-map"></i>N. Nərimanov r. Təbriz kuç 89
                                             info.menbe@gmail.com</span>
@@ -64,10 +64,10 @@
                                 </div>
                             </div>
                             <div class="recent-content-item">
-                                <a href="/store/store/2"><img src="/images/store/yapondili_az_store_list_1481201709.jpg"
+                                <a href="?page=store3"><img src="/images/store/yapondili_az_store_list_1481201709.jpg"
                                         alt="Ali Nino" style="width:70px;"></a>
                                 <div class="recent-text">
-                                    <h4><a href="/store/store/2">Ali Nino</a></h4>
+                                    <h4><a href="?page=store3">Ali Nino</a></h4>
                                     <div class="single-item-comment-view">
                                         <span><i class="zmdi zmdi-map"></i>Xətai ray. Əhmədli qəs. 55A</span>
                                     </div>

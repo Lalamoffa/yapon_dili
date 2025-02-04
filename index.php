@@ -68,6 +68,28 @@
                 include 'sign_in.php';
             }elseif ($page == 'sign_up') {
                 include 'sign_up.php';
+            }elseif ($page == 'store2') {
+                include 'store2.php';
+            }elseif ($page == 'store3') {
+                include 'store3.php';
+            }elseif ($page == 'store_product') {
+                include 'store_product.php';
+            }elseif ($page == 'resources') {
+                include 'resources.php';
+            }elseif ($page == 'resources2') {
+                include 'resources2.php';
+            }elseif ($page == 'resources3') {
+                include 'resources3.php';
+            }elseif ($page == 'resources4') {
+                include 'resources4.php';
+            }elseif ($page == 'resources5') {
+                include 'resources5.php';
+            }elseif ($page == 'resources6') {
+                include 'resources6.php';
+            }elseif ($page == 'japan2') {
+                include 'japan2.php';
+            }elseif ($page == 'japan3') {
+                include 'japan3.php';
             }
         } else {
             include 'home.php';
